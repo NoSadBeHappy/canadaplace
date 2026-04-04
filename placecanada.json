@@ -17,6 +17,14 @@
       ],
       "x": 152,
       "y": 250
+    },
+    {
+      "name": "hockey",
+      "sources": [
+        "https://raw.githubusercontent.com/NoSadBeHappy/canadaplace/refs/heads/main/assets/hockey.png"
+      ],
+      "x": 62,
+      "y": 97
     }
   ],
   "whitelist": []
